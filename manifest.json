@@ -1,0 +1,9 @@
+{
+  "name": "Testing",
+  "description": "A description of your awesome application.",
+  "start_url": "/gh-pages-test/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}
